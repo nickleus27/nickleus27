@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nickleus27
+- 👋 Hi, I’m Nick.
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning about tensorflow.keras
-- 💞️ I’m looking to collaborate on CPP or C projects
+- 🌱 I’m currently learning about tensorflow.keras and deep learning.
+- 💞️ I’m looking to collaborate on C, CPP, or Python projects. I also like mobile apps.
 - 📫 How to reach me nickleus27@gmail.com
 
 <!---
