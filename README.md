@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickleus27
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning assembly language.
-- 💞️ I’m looking to collaborate neural networks. I am most fluent in c, cpp, and python.
+- 🌱 I’m currently learning about tensorflow.keras
+- 💞️ I’m looking to collaborate on CPP or C projects
 - 📫 How to reach me nickleus27@gmail.com
 
 <!---
