@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick.
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning about tensorflow.keras and deep learning.
+- 👀 I’m interested in compilers.
+- 🌱 I’m currently learning about compilers and reading Modern Compiler Design.
 - 💞️ I’m looking to collaborate on C, CPP, or Python projects. I also like mobile apps: ios, android, react-native. I would like to learn more Javascript.
 - 📫 How to reach me nickleus27@gmail.com
 
