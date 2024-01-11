@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nick.
-- 👀 I’m interested in compilers.
-- 🌱 I’m currently learning about compilers and reading Modern Compiler Design.
-- 💞️ I’m looking to collaborate on C, CPP, Python, JavaScript, and TypeScript projects.
+- 🌱 I’m interested in compilers.
 - 📫 How to reach me nickleus27@gmail.com
 
 - 👀 Checkout the broadband research we are doing at California State University Monterey Bay (CSUMB). Here is a link to a website I made to display data we have for different broadband carriers over the last few years. https://nickleus27.github.io/cali_broadband/
